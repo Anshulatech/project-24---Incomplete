@@ -1,0 +1,9 @@
+class trash{
+    constructor(){
+
+    }
+
+    display(){
+        
+    }
+}
